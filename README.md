@@ -1,4 +1,12 @@
-## Hi there 👋
+###Hi! I'm Harshini ☄. *. ⋆
+
+I'm a current Data Science major at UC Berkeley and I am also planning on doubling in Linguistics!
+
+I'm currently working on: 
+- VillageHub: A client project for Tiny Village Spirit that
+- Classicial Dance Form ML Classification System (Doesn't have a name yet): A project combining my interest is dance and machine learning!
+
+
 
 <!--
 **harshi-puli/harshi-puli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
