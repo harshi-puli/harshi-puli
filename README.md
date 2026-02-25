@@ -1,4 +1,4 @@
-Hi! I'm Harshini ☄. *. ⋆
+Hi! I'm Harshini . *. ⋆
 
 I'm a current Data Science major at UC Berkeley and I am also planning on doubling in Linguistics!
 
