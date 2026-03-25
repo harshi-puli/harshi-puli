@@ -5,14 +5,15 @@ I'm a current Data Science major at UC Berkeley and I am also planning on doubli
 I'm currently working on: 
 - VillageHub: A client project for Tiny Village Spirit that
 - Classicial Dance Form ML Classification System (Doesn't have a name yet): A project combining my interest is dance and machine learning!
+- Berkeley Lost & Found: An automated data collection project that uses webscraping to collect and display lost items from r/berkeley posts.
 
 Technical Interests:
 - Machine Learning applications in the arts (music especially) and environmental science
-- Natural Langugae Processing
+- Natural Langugae Processing and Projects that work with language in general.
 - Using OpenCV to expand my interest in the intersection between art and ML.
 
 Skills/Tach Stack: 
-- Programming Language & Tools: Python, Java, SQL, TypeScript, Git, GitHub, React.js, Node.js
+- Programming Language & Tools: Python, Java, SQL, TypeScript, Git, GitHub, React.js, Node.js, Flask, Beautiful Soup & Requests.
 - Data Science  & ML Frameworks: Pandas, NumpPy, Sci-Kit learn, PyTorch, XGBoost, etc.
 - Databases: Firebase (Firestore), MongoDB, SQLite
 - Concepts: Data Structures & Algorithms, REST APIs, OOP, Database Design
