@@ -3,9 +3,9 @@ Hi! I'm Harshini . *. ⋆
 I'm a current Data Science major at UC Berkeley and I am also planning on doubling in Linguistics!
 
 I'm currently working on: 
-- VillageHub: A client project for Tiny Village Spirit that
-- Classicial Dance Form ML Classification System (Doesn't have a name yet): A project combining my interest is dance and machine learning!
-- Berkeley Lost & Found: An automated data collection project that uses webscraping to collect and display lost items from r/berkeley posts.
+- VillageHub: A full stack app development project made through Open Project that serves the residents of Tiny Village Spirit. 🌻
+- (Natyam) Classicial Dance Form ML Classification System: A project combining my interest in dance and machine learning! 💃
+- Berkeley Lost & Found: An automated data collection project that uses webscraping to collect and display lost items from r/berkeley posts. 🧡
 
 Technical Interests:
 - Machine Learning applications in the arts (music especially) and environmental science
