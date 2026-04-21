@@ -4,7 +4,8 @@ I'm a current Data Science major at UC Berkeley and I am also planning on doubli
 
 I'm currently working on: 
 - VillageHub: A full stack app development project made through Open Project that serves the residents of Tiny Village Spirit. 🌻
-- (Natyam) Classicial Dance Form ML Classification System: A project combining my interest in dance and machine learning! 💃
+- NatyaNet: Classicial Dance Form ML Classification System: A project combining my interest in dance and machine learning! 💃
+- MagPie 🐦‍⬛: An Obsidian Plug-in that takes given urls and turns them into a web of notes that contain the article's top vital elements.
 - Berkeley Lost & Found: An automated data collection project that uses webscraping to collect and display lost items from r/berkeley posts. 🧡
 
 Technical Interests:
