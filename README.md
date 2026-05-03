@@ -1,23 +1,79 @@
-Hi! I'm Harshini . *. ⋆
+## Hi! I'm Harshini ✧₊⁺
 
-I'm a current Data Science major at UC Berkeley and I am also planning on doubling in Linguistics!
+🎓 Data Science @ UC Berkeley (planning to double in Linguistics)  
+💡 Interested in ML, language, and the intersection of art + technology  
 
-I'm currently working on: 
-- VillageHub: A full stack app development project made through Open Project that serves the residents of Tiny Village Spirit. 🌻
-- NatyaNet: Classicial Dance Form ML Classification System: A project combining my interest in dance and machine learning! 💃
-- MagPie 🐦‍⬛: An Obsidian Plug-in that takes given urls and turns them into a web of notes that contain the article's top vital elements.
-- Berkeley Lost & Found: An automated data collection project that uses webscraping to collect and display lost items from r/berkeley posts. 🧡
+---
 
-Technical Interests:
-- Machine Learning applications in the arts (music especially) and environmental science
-- Natural Langugae Processing and Projects that work with language in general.
-- Using OpenCV to expand my interest in the intersection between art and ML.
+## 🚀 GitHub Stats
 
-Skills/Tach Stack: 
-- Programming Language & Tools: Python, Java, SQL, TypeScript, Git, GitHub, React.js, Node.js, Flask, Beautiful Soup & Requests.
-- Data Science  & ML Frameworks: Pandas, NumpPy, Sci-Kit learn, PyTorch, XGBoost, etc.
-- Databases: Firebase (Firestore), MongoDB, SQLite
-- Concepts: Data Structures & Algorithms, REST APIs, OOP, Database Design
+![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshi-puli&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshi-puli&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshi-puli&layout=compact&theme=tokyonight)
+
+---
+
+## 🚧 What I'm Working On
+
+- 🌻 **VillageHub**  
+  Full-stack app supporting residents of Tiny Village Spirit  
+
+- 💃 **NatyaNet**  
+  Classical dance classification system using ML  
+
+- 🐦‍⬛ **MagPie**  
+  Obsidian plugin that converts URLs into structured note networks  
+
+- 🧡 **Berkeley Lost & Found**  
+  Web-scraping tool for aggregating lost items from r/berkeley  
+
+---
+
+## 💡 Technical Interests
+
+- ML in the arts (especially music 🎶) + environmental science  
+- Natural Language Processing (NLP)  
+- Computer Vision (OpenCV) for creative applications  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge)
+
+---
+
+### Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+---
+
+## 📌 Extras
+
+![Visitor Count](https://komarev.com/ghpvc/?username=harshi-puli&color=blue)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshi-puli&theme=tokyo-night)
 
 <!--
 **harshi-puli/harshi-puli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
