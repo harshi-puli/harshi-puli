@@ -1,7 +1,7 @@
 ## Hi! I'm Harshini ✧₊⁺
 
 🎓 Data Science @ UC Berkeley (planning to double in Linguistics)  
-💡 Interested in ML, language, and the intersection of art + technology  
+💡 Interested in Data, ML & AI, language, and the intersection of art + technology  
 
 ---
 
