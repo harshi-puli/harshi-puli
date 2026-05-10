@@ -5,13 +5,9 @@
 
 ---
 
-## 🚀 GitHub Stats
-
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshi-puli&show_icons=true&theme=tokyonight)
-
+## <img width=40px height=70px alt="3f75802ff99759f5b6b3606a60a2bb61-removebg-preview" src="https://github.com/user-attachments/assets/02508575-8a25-45c4-bdea-f02d384a8eb5" /> GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshi-puli&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshi-puli&layout=compact&theme=tokyonight)
 
 ---
 
